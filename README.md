@@ -1,3 +1,5 @@
+'Cross-Modal Fusion Techniques for Utterance-Level Emotion Recognition from Text and Speech', ICASSP 2023.
+
 multimodal dialogue emotion  demo
 
 1.audio display
@@ -12,3 +14,5 @@ TV show.
 > Speakers: 260 speakers
 > Distribution: train set (9989), val set (1109), test set (2610)
 > Emotion: anger, joy, sadness, neutral, disgust, fear and surprise
+
+later, we will upload relevant code. feel free to touch me. 
